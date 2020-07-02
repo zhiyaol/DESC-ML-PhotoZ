@@ -5,3 +5,5 @@ In **Training-final.ipynb** and **Analysis-final.ipynb**, we apply and validate 
 **change_path.py** and **point_metrics.py** are supporting documents that are imported when we run the above-mentioned notebooks. **point_metrics.py** is imported from https://github.com/LSSTDESC/PZDC1paper/tree/master/metric_scripts on 10th May 2020. We made minor edits for it to compile in Python 3 environment.
 
 **Analysis_old.ipynb** contains some code that are half developed and not useful to our project but might be useful in other projects.
+
+A note explaining the project in detail is at https://docs.google.com/document/d/1PU6qx48bxtVfXoz1oBaBz-mKu-2H0wHF-6VyombL9s0/edit?usp=sharing
