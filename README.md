@@ -6,4 +6,4 @@ In **Training-final.ipynb** and **Analysis-final.ipynb**, we apply and validate 
 
 **Analysis_old.ipynb** contains some code that are half developed and not useful to our project but might be useful in other projects.
 
-A note explaining the project in detail is at https://docs.google.com/document/d/1PU6qx48bxtVfXoz1oBaBz-mKu-2H0wHF-6VyombL9s0/edit?usp=sharing
+A note explaining the project in detail is at https://docs.google.com/document/d/1PU6qx48bxtVfXoz1oBaBz-mKu-2H0wHF-6VyombL9s0/edit?usp=sharing.
